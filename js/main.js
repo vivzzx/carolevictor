@@ -176,6 +176,60 @@
             price: '66,90',
             img: 'https://images-americanas.b2w.io/produtos/01/00/img/2772993/8/2772993866_1GG.jpg'
           },
+          {
+            link:'https://www.magazineluiza.com.br/prendedor-de-roupa-utimil-24-pecas-ep-359/p/218083700/ud/pdro/',
+            text: 'Prendedor de roupas',
+            price: '29,90',
+            img: 'https://a-static.mlcdn.com.br/618x463/prendedor-de-roupa-utimil-24-pecas-ep-359/magazineluiza/218083700/de5950f218f4bb486b2a4e57e6adfb24.jpg'
+          },
+          {
+            link:'https://www.magazineluiza.com.br/cesto-para-prendedor-de-roupas-cristal-sanremo/p/hk2adg28gb/ud/cero/',
+            text: 'Cesto para prendedor de roupas',
+            price: '12,90',
+            img: 'https://a-static.mlcdn.com.br/618x463/cesto-para-prendedor-de-roupas-cristal-sanremo/telhanorte/1516736/f2f586af895b43ace81cbac567d1a12a.jpg'
+          },
+          {
+            link:'https://www.magazineluiza.com.br/rodinho-de-pia-cozinha-alta-qualidade-rodo-seca-pia-ref-7778-plasutil/p/ed7e5ag3dj/ud/rdhp/',
+            text: 'Rodinho de pia',
+            price: '17,99',
+            img: 'https://a-static.mlcdn.com.br/618x463/rodinho-de-pia-cozinha-alta-qualidade-rodo-seca-pia-ref-7778-plasutil/amplabrasil/7545957355/a848f1525c21d34d474b6bc46e6637b8.jpg'
+          },
+          {
+            link:'https://www.magazineluiza.com.br/balde-plastico-sanremo-15l/p/fh8acb47hk/ud/blde/',
+            text: 'Balde de plástico',
+            price: '18,36',
+            img: 'https://a-static.mlcdn.com.br/618x463/balde-plastico-sanremo-15l/lojasalljoy/9723087559/49ec02840cb686515af3229d3ff7b94b.jpg'
+          },
+          {
+            link:'https://www.magazineluiza.com.br/garrafa-termica-invicta-galant-1l-pressao-cores-sortidas/p/gf614ekhh6/ud/gate/',
+            text: 'Garrafa térmica',
+            price: '32,90',
+            img: 'https://a-static.mlcdn.com.br/618x463/garrafa-termica-invicta-galant-1l-pressao-cores-sortidas/efacil/1012680/0403d56e447dd7930fed56f1dcf0e0d2.jpg'
+          },
+          {
+            link:'https://www.magazineluiza.com.br/kit-de-jogo-americano-com-6-un-folhas-imprimindo-tudo/p/ebf85686ba/ud/joam/',
+            text: 'Kit Jogo Americano',
+            price: '44,91',
+            img: 'https://a-static.mlcdn.com.br/618x463/kit-de-jogo-americano-com-6-un-folhas-imprimindo-tudo/imprimindotudobureau/304f6adabfee11eab4824201ac18501e/dfce71b833fd91a3c4b2559822dc82fd.jpg'
+          },
+          {
+            link:'https://www.magazineluiza.com.br/conjunto-para-frios-3-pecas-atina-brinox/p/7246287/ud/pofr/',
+            text: 'Conjunto para frios',
+            price: '42,90',
+            img: 'https://a-static.mlcdn.com.br/618x463/conjunto-para-frios-3-pecas-atina-brinox/redesolarmoveis/687/e543ebcaacdc6fd9f31f1604322172ac.jpg'
+          },
+          {
+            link:'https://www.magazineluiza.com.br/luva-termica-para-forno-altas-temperaturas-vermelha-wincy/p/jb1e1jhkhc/ud/luud/',
+            text: 'Luva térmica',
+            price: '24,90',
+            img: 'https://a-static.mlcdn.com.br/618x463/luva-termica-para-forno-altas-temperaturas-vermelha-wincy/casanuvem/8395768901/9587e165a019538e8e083cc5debd2b3b.jpg'
+          },
+          {
+            link:'https://www.magazineluiza.com.br/pano-de-chao-microfibra-condor-oferta/p/aj09aga5g6/me/pano/',
+            text: 'Pano de chão de microfibra',
+            price: '8,59',
+            img: 'https://a-static.mlcdn.com.br/618x463/pano-de-chao-microfibra-condor-oferta/supralimpa/e2e2bbbe2b6111eb98b44201ac18503b/bd45740f7567cf3a38d6feb93b83d63a.jpg'
+          },
         ]
         var shop = document.getElementById('shop');
         produtos.map(function(item) {
