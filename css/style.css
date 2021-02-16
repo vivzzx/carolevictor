@@ -9,20 +9,29 @@
     margin: 0;
   }
 
-#styleh1 {
+#styletitle {
     font-family: 'Abril Fatface', cursive, Arial, Helvetica, sans-serif;
     font-size: 8rem;
     color: steelblue;
-    padding: 15px;
+    padding-right: 15px;
+    margin-top: 0;
 }
 
 #img01 {
     width: 100%;
+    margin: 0;
 }
 
 #welcome {
     text-align: center;
-    padding: 20px 0px;
+
+}
+
+.tiles {
+  border-radius: 3px;
+  box-shadow: 0 10px 20px #0000002f;
+  margin: 20px;
+  height: 500px;
 }
 
 .bolinha {
@@ -46,6 +55,22 @@
     fill: steelblue;
 }
 
+.intro {
+  font-family: Quicksand, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 1.8rem;
+  text-align: center;
+  background-color: #ececec;
+  margin: 0;
+  padding: 20px 0;
+}
+
+.shop {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: stretch;
+}
 
 
 /* general styling do contador */
@@ -76,19 +101,33 @@
     display: block;
     font-size: 2.2rem;
   }
+
+  
   
   
   @media all and (max-width: 768px) {
     h2 {
       font-size: 1.5rem;
+      text-align: center;
     }
     
     li {
-      font-size: 1.125rem;
+      font-size: 1rem;
       padding: .75rem;
     }
     
     li span {
-      font-size: 3.375rem;
+      font-size: 2rem;
+    }
+
+    #styletitle {
+      text-align: center;
+    }
+    #countdown ul{
+      display: flex;
+    }
+    #contador {
+      flex-direction: column;
+      padding: 10px 0;
     }
   }
