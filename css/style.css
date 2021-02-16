@@ -34,19 +34,13 @@
   height: 500px;
 }
 
-.bolinha {
-    color: rgba(71, 129, 255, 0.288);
-    position: absolute;
-    right: 50px;
-    top: 5px;
-}
-
 .coracao {
     position: absolute;
     right: 30px;
     top: 0; 
     width: 18%;
     fill: steelblue;
+    opacity: 0.8;
 }
 
 .divider {
@@ -54,6 +48,11 @@
 
     fill: steelblue;
 }
+
+h2 {
+  font-size: 1.5rem;
+}
+
 
 .intro {
   font-family: Quicksand, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -91,7 +90,7 @@
   
   li {
     display: inline-block;
-    font-size: 1.5em;
+    font-size: 1.3em;
     list-style-type: none;
     padding: 1em;
     text-transform: uppercase;
@@ -99,7 +98,7 @@
   
   li span {
     display: block;
-    font-size: 2.2rem;
+    font-size: 2rem;
   }
 
   
@@ -107,27 +106,38 @@
   
   @media all and (max-width: 768px) {
     h2 {
-      font-size: 1.5rem;
+      font-size: 1.4rem;
       text-align: center;
     }
     
     li {
-      font-size: 1rem;
-      padding: .75rem;
+      font-size: 0.9rem;
+      padding: .7rem;
     }
     
     li span {
-      font-size: 2rem;
+      font-size: 1.8rem;
     }
 
     #styletitle {
       text-align: center;
+      width: 100%;
+      font-size: 7rem;
     }
+    .intro {
+      font-size: 1.3rem;
+    }
+
     #countdown ul{
       display: flex;
     }
     #contador {
       flex-direction: column;
       padding: 10px 0;
+      width: 100%;
     }
+    .coracao {
+      opacity: 0.2;
+    }
+
   }
