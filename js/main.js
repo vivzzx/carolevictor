@@ -46,7 +46,7 @@
           },
           {
             link:'https://www.magazineluiza.com.br/kit-utensilios-de-cozinha-euro-home-inox-gadgets-4-pecas/p/221900000/ud/cjtu/',
-            text: 'Kit de utensílios de inox',
+            text: '(VENDIDO) Kit de utensílios de inox',
             price: '49,90',
             img: 'https://a-static.mlcdn.com.br/618x463/kit-utensilios-de-cozinha-euro-home-inox-gadgets-4-pecas/magazineluiza/221900000/de6be6cb8a1c7096571f5e2a9a6d9936.jpg'
           },
@@ -76,7 +76,7 @@
           },
           {
             link:'https://www.magazineluiza.com.br/jogo-toalhas-marrocos-4-pecas-mascavo-vivart/p/cf64a2d2k6/cm/joto/',
-            text: 'Jogo de Toalhas 4 peças',
+            text: '(VENDIDO) Jogo de Toalhas 4 peças',
             price: '119,90',
             img: 'https://a-static.mlcdn.com.br/618x463/jogo-toalhas-marrocos-4-pecas-mascavo-vivart/ecommhome/8233p/65f3e7d9d2989df6d3d99a6b9eb6db8f.jpg'
           },
