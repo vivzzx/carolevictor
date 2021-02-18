@@ -99,19 +99,19 @@
             img: 'https://images-americanas.b2w.io/produtos/01/00/img/153836/1/153836132_1GG.jpg'
           },
           {
-            link:'https://www.americanas.com.br/produto/32088962?pfm_carac=pote&pfm_index=20&pfm_page=search&pfm_pos=grid&pfm_type=search_page',
+            link:'https://www.americanas.com.br/produto/125281221?pfm_carac=pote&pfm_index=7&pfm_page=search&pfm_pos=grid&pfm_type=search_page',
             text: 'Conjunto de potes inox com tampa',
             price: '19,35',
             img: 'https://images-americanas.b2w.io/produtos/01/00/item/125281/2/125281221_3GG.jpg'
           },
           {
-            link:'https://www.americanas.com.br/produto/125281221?pfm_carac=pote&pfm_index=7&pfm_page=search&pfm_pos=grid&pfm_type=search_page',
+            link:'https://www.americanas.com.br/produto/1760507218?pfm_carac=potes-hermeticos&pfm_index=9&pfm_page=search&pfm_pos=grid&pfm_type=search_page',
             text: 'Conjunto de 10 potes herméticos',
             price: '55,79',
             img: 'https://images-americanas.b2w.io/produtos/01/00/img/1760507/2/1760507226_1GG.jpg'
           },
           {
-            link:'https://www.americanas.com.br/produto/1760507218?pfm_carac=pote&pfm_index=7&pfm_page=search&pfm_pos=grid&pfm_type=search_page',
+            link:'https://www.americanas.com.br/produto/22576118?pfm_carac=%C3%BAltimos%20produtos%20vistos&pfm_index=4&pfm_pos=item_page.history&pfm_type=vit_recommendation&DCSext.recom=RR_item_page.history-RecentHistoricalItems&nm_origem=rec_item_page.history-RecentHistoricalItems&nm_ranking_rec=5',
             text: 'Conjunto de 6 potes quadrados',
             price: '13,94',
             img: 'https://images-americanas.b2w.io/produtos/01/00/oferta/22576/1/22576120_1GG.jpg'
@@ -142,7 +142,7 @@
           },
           {
             link:'https://www.americanas.com.br/produto/1978257848?pfm_carac=rodo&pfm_page=search&pfm_pos=grid&pfm_type=search_page',
-            text: 'Rodo mágico Mop com reservatório',
+            text: '(VENDIDO) Rodo mágico Mop com reservatório',
             price: '60,30',
             img: 'https://images-americanas.b2w.io/produtos/01/00/img/1978257/8/1978257864_1GG.jpg'
           },
@@ -214,7 +214,7 @@
           },
           {
             link:'https://www.magazineluiza.com.br/conjunto-para-frios-3-pecas-atina-brinox/p/7246287/ud/pofr/',
-            text: 'Conjunto para frios',
+            text: '(VENDIDO) Conjunto para frios',
             price: '42,90',
             img: 'https://a-static.mlcdn.com.br/618x463/conjunto-para-frios-3-pecas-atina-brinox/redesolarmoveis/687/e543ebcaacdc6fd9f31f1604322172ac.jpg'
           },
